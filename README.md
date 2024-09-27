@@ -3,6 +3,8 @@
 ## Overview
 Remixicon Picker is a simple and user-friendly web component that allows users to easily browse and select icons from the Remix Icon library. This picker provides a searchable interface to quickly find icons and display them in your projects. 🌟
 
+![image](https://github.com/user-attachments/assets/975ba717-a33a-4664-ab97-50fa90d259f2)
+
 ## Features
 - **Searchable Icon List 🔍:** Quickly find icons by typing in the search bar.
 - **Icon Preview 👀:** Select an icon to see a preview in the input field.
